@@ -3,10 +3,10 @@ console.log("inicio develop");
 // un comentario
 
 
-// inicio de nueva rama
+// inicio de main
 
 
 
-// fin de nueva rama
+// fin de main
 
 console.log("fin develop");

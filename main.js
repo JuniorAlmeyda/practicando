@@ -2,9 +2,9 @@ console.log("inicio develop");
 
 // un comentario
 
-// inicio de nueva rama
+// inicio de develop
 
 
 
-// fin de nueva rama
+// fin de nueva develop
 console.log("fin develop");
